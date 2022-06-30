@@ -1,10 +1,10 @@
-## A place to keep track of my personal goals.
+## WELCOME JAX
 
-I'm working on a Trading Strategy Theory and practical document.
+We must calculate our efforts and take inventory, using these we can plan huge projects.
 
 ### Trading
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Word document and Excel document.
 
 ```markdown
 Syntax highlighted code block
