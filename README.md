@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## A place to keep track of my personal goals.
 
-You can use the [editor on GitHub](https://github.com/ErgoSchmuck/bengaltiger.tech/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm working on a Trading Strategy Theory and practical document.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Trading
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
