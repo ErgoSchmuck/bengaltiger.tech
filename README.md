@@ -12,7 +12,7 @@ When I say I want to work, this is where I should head first - I should perfect 
 This I should protect, because it will be a valuable asset for additional streams of income when the time comes. For MT5 trading account information see [MQL5](https://www.mql5.com/en/signals/1583452?source=Site+Signals+My).
 
 ### GAME
-There is a sheet within strategy.excel titles health, therein we will develop perfect records for maximal health. We must first believe that we are an active individual. All psychich issues are physiological in nature.
+There is a sheet within strategy.excel titles health, therein we will develop perfect records for maximal health. We must first believe that we are an active individual. All psychic issues are physiological in nature.
 
 ### WORK
 This website will serve as a medium to learning MERN stack. The PluralSight channel to follow is [PluralSight](https://app.pluralsight.com/channels/details/3a202b58-7fbe-486a-acab-c5b538471a6e?s=1). I am undecided on what to build using this space, I own the domain for a year and I need to have a functional proof of concept for anything worth renewing.
@@ -32,6 +32,5 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 [Link](url) and ![Image](src)
 ```
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
