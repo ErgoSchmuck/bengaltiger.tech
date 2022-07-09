@@ -1,24 +1,30 @@
-## WELCOME JAX
+## JAX CENTRE OF EXCELLENCE
 
-If I am ever undecided on what I should be doing, I will read the contents of this page and become fully aligned to what my strategy is.
+If I am ever undecided on what I should be doing, I will read the contents of this page and become fully aligned to what my strategy is. I will record and calculate quantitative data in an excel document, and a narrative in a word document. This will be the file structure of most endeavours. 
 
 ### TRADING
-Trading strategy is a word document designed to explain the narrative of trading. What actually needs to happen in order to enter a trade, I should always be experimenting on TradingView, there is so much to learn so long as I have an inquisitive mindset. [tradingstrategy.docs](https://1drv.ms/w/s!AmEFh2CzDLeigYMV1URQ3-yQJSS2wg?e=fC42Qg).
+[tradingstrategy.docs](https://1drv.ms/w/s!AmEFh2CzDLeigYMV1URQ3-yQJSS2wg?e=fC42Qg) is used to narrate the context of a trade.
 
-Trading plan is an excel document that highlights the profit target of 22%, the lot size and recommended number of positions are additional benefits that help meet trading targets. This excel document should also be worked on consistently, there are infinite improvements to be made. [strategy.excel](https://1drv.ms/x/s!AmEFh2CzDLeigYVzQsz9NLBcS__sBQ?e=Uk1N9y).
+[strategy.excel](https://1drv.ms/x/s!AmEFh2CzDLeigYVzQsz9NLBcS__sBQ?e=Uk1N9y) contains a sheet for calculating MT5 positions.
 
-When I say I want to work, this is where I should head first - I should perfect my line studies and constantly try new things. For TradingView profile see [TradingView](https://www.tradingview.com/u/ErgoSchmuck/).
+[TradingView](https://www.tradingview.com/u/ErgoSchmuck/) line studies will earn us £84,000,000.
 
-This I should protect, because it will be a valuable asset for additional streams of income when the time comes. For MT5 trading account information see [MQL5](https://www.mql5.com/en/signals/1583452?source=Site+Signals+My).
+[MQL5](https://www.mql5.com/en/signals/1583452?source=Site+Signals+My) will be the biography of greatness.
 
 ### GAME
-There is a sheet within strategy.excel titles health, therein we will develop perfect records for maximal health. We must first believe that we are an active individual. All psychic issues are physiological in nature.
+[strategy.excel](https://1drv.ms/x/s!AmEFh2CzDLeigYVzQsz9NLBcS__sBQ?e=Uk1N9y) contains a sheet for upgrading the mind and body.
 
 ### WORK
-This website will serve as a medium to learning MERN stack. The PluralSight channel to follow is [PluralSight](https://app.pluralsight.com/channels/details/3a202b58-7fbe-486a-acab-c5b538471a6e?s=1). I am undecided on what to build using this space, I own the domain for a year and I need to have a functional proof of concept for anything worth renewing.
+[PluralSight](https://app.pluralsight.com/channels/details/3a202b58-7fbe-486a-acab-c5b538471a6e?s=1) will help me upgrade this website and add all the features I intend.
 
-### SHOP
-An ideal outcome of this website would be to have an ecommerce available for items and services. I will also incorporate a chat service here so people can communicate directly with me.
+[strategy.excel](https://1drv.ms/x/s!AmEFh2CzDLeigYVzQsz9NLBcS__sBQ?e=Uk1N9y) contains a sheet for upgrading my life, career and this website.
+
+### PROPOSED FEATURES
+```markdown
+# Ideation Scratchboard.
+# Message feature.
+
+```
 
 ```markdown
 Syntax highlighted code block
