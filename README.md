@@ -1,4 +1,4 @@
-## JAX CENTRE OF EXCELLENCE
+## **JAX CENTRE OF EXCELLENCE**
 
 If I am ever undecided on what I should be doing, I will read the contents of this page and become fully aligned to what my strategy is. I will record and calculate quantitative data in an excel document, and a narrative in a word document. This will be the file structure of most endeavours. 
 
