@@ -22,7 +22,8 @@ If I am ever undecided on what I should be doing, I will read the contents of th
 ### PROPOSED FEATURES
 ```markdown
 # Ideation Scratchboard.
-# Message feature.
+# Message Feature.
+# Ecommerce
 
 ```
 
