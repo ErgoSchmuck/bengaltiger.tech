@@ -12,12 +12,12 @@ If I am ever undecided on what I should be doing, I will read the contents of th
 [MQL5](https://www.mql5.com/en/signals/1583452?source=Site+Signals+My) will be the biography of greatness.
 
 ### GAME
-[strategy.excel](https://1drv.ms/x/s!AmEFh2CzDLeigYVzQsz9NLBcS__sBQ?e=Uk1N9y) contains a sheet for upgrading the mind and body.
+[strategy.excel](https://1drv.ms/x/s!AmEFh2CzDLeigYVzQsz9NLBcS__sBQ?e=Uk1N9y) contains a sheet titled `GAME` for upgrading the mind and body.
 
 ### WORK
 [PluralSight](https://app.pluralsight.com/channels/details/3a202b58-7fbe-486a-acab-c5b538471a6e?s=1) will help me upgrade this website and add all the features I intend.
 
-[strategy.excel](https://1drv.ms/x/s!AmEFh2CzDLeigYVzQsz9NLBcS__sBQ?e=Uk1N9y) contains a sheet for upgrading my life, career and this website.
+[strategy.excel](https://1drv.ms/x/s!AmEFh2CzDLeigYVzQsz9NLBcS__sBQ?e=Uk1N9y) contains a sheet titled `WORK` for upgrading my career.
 
 ### PROPOSED FEATURES
 ```markdown
