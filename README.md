@@ -29,6 +29,8 @@ If I am ever undecided on what I should be doing, I will read the contents of th
 
 ```
 
+<div id="balance_chart" class="signal-chart-placeholder"><object id="balance_chart_chart" name="balance_chart_chart" type="image/svg+xml" data="https://www.mql5.com/svg/charts/PointChart.compress.svg" width="100%" height="100%" onload="window.MQL5ChartAPI.__onSVGLoad('balance_chart_chart')"></object></div>
+
 ```markdown
 Syntax highlighted code block
 # Header 1
